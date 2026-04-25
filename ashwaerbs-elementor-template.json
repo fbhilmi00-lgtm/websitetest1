@@ -1,0 +1,50 @@
+{
+  "title": "AstraHerbs Responsive Landing (BM)",
+  "type": "page",
+  "version": "0.4",
+  "page_settings": {
+    "background_background": "classic",
+    "background_color": "#0f130f"
+  },
+  "content": [
+    {
+      "id": "sec_main",
+      "elType": "section",
+      "isInner": false,
+      "settings": {
+        "layout": "full_width",
+        "content_width": "full_width",
+        "gap": "no",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "col_main",
+          "elType": "column",
+          "isInner": false,
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "w_html_landing",
+              "elType": "widget",
+              "widgetType": "html",
+              "settings": {
+                "html": "<style>.ashwa-wrap{font-family:Poppins,Arial,sans-serif;background:#0f130f;color:#eff7e8}.ashwa-container{width:min(1100px,92%);margin:auto}.ashwa-hero{min-height:88vh;display:grid;place-items:center;padding:80px 0;background:radial-gradient(circle at 20% 20%,rgba(139,212,111,.35),transparent 45%),radial-gradient(circle at 80% 15%,rgba(76,175,80,.25),transparent 35%),linear-gradient(160deg,#172217 0%,#0f130f 55%,#0a0d0a 100%)}.ashwa-eyebrow{text-align:center;color:#8bd46f;font-weight:600;letter-spacing:.08em;text-transform:uppercase;margin:0 0 8px}.ashwa-title{text-align:center;margin:0;font-size:clamp(2rem,7vw,4.8rem);line-height:1.05}.ashwa-sub{text-align:center;max-width:760px;margin:12px auto 18px;color:#c4d5be;font-size:clamp(1rem,2.4vw,1.2rem)}.ashwa-chip-row{display:flex;flex-wrap:wrap;justify-content:center;gap:10px}.ashwa-chip{padding:8px 14px;border-radius:999px;background:#1f2a1f;border:1px solid #365136;color:#e5f5d5;font-size:14px}.ashwa-cta{display:inline-block;text-decoration:none;font-weight:700;color:#0f130f;background:linear-gradient(90deg,#c8f06b,#6be87b);border-radius:999px;padding:14px 22px;margin-top:18px;box-shadow:0 12px 28px rgba(107,232,123,.28)}.ashwa-sec{padding:64px 0}.ashwa-sec h2{text-align:center;margin:0 0 20px;font-size:clamp(1.4rem,4vw,2.4rem)}.ashwa-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:10px}.ashwa-box{background:#161d16;border:1px solid #2e3f2f;border-radius:10px;min-height:64px;display:flex;align-items:center;justify-content:center;font-weight:600}.ashwa-rec{background:linear-gradient(180deg,#111711,#0d110d)}.ashwa-card-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px}.ashwa-card{background:#171f17;border:1px solid #2c412c;border-radius:10px;padding:16px}.ashwa-card h4{margin:0 0 8px}.ashwa-card p{margin:0;color:#c4d5be}.ashwa-footer{border-top:1px solid #2a332a;padding:30px 0 42px;text-align:center;color:#a5b5a5}.ashwa-footer h4{margin:0 0 8px;color:#eff7e8}.ashwa-footer p{margin:6px 0}@media (max-width:767px){.ashwa-hero{padding:64px 0}.ashwa-cta{width:100%;text-align:center}.ashwa-sec{padding:48px 0}}</style><div class=\"ashwa-wrap\"><section class=\"ashwa-hero\"><div class=\"ashwa-container\"><p class=\"ashwa-eyebrow\">Memperkenalkan</p><h1 class=\"ashwa-title\">ASHWAGANDHA KSM-66</h1><p class=\"ashwa-sub\">Bahan gred tertinggi dalam kategori ginseng ini, KSM-66.</p><div class=\"ashwa-chip-row\"><span class=\"ashwa-chip\">Bebas Gluten</span><span class=\"ashwa-chip\">Tumbuhan</span><span class=\"ashwa-chip\">Vegan</span><span class=\"ashwa-chip\">Terbukti Klinikal</span><span class=\"ashwa-chip\">Disahkan Halal</span><span class=\"ashwa-chip\">3x Berkesan</span></div><div style=\"text-align:center\"><a class=\"ashwa-cta\" href=\"#order\">DAPATKAN OFFER SEKARANG</a></div></div></section><section class=\"ashwa-sec\"><div class=\"ashwa-container\"><h2>ASTRAHERBS DI MEDIA</h2><div class=\"ashwa-grid\"><div class=\"ashwa-box\">RTM</div><div class=\"ashwa-box\">NST</div><div class=\"ashwa-box\">Harian Metro</div><div class=\"ashwa-box\">IKIM</div><div class=\"ashwa-box\">ERA</div><div class=\"ashwa-box\">TV3</div><div class=\"ashwa-box\">TV9</div><div class=\"ashwa-box\">Berita Harian</div></div></div></section><section class=\"ashwa-sec ashwa-rec\" id=\"order\"><div class=\"ashwa-container\"><h2>DIIKTIRAF KLINIKAL & HALAL</h2><div class=\"ashwa-card-grid\"><article class=\"ashwa-card\"><h4>Klinikal</h4><p>Formulasi berasaskan bahan aktif KSM-66 yang digunakan meluas dalam kajian moden.</p></article><article class=\"ashwa-card\"><h4>Halal</h4><p>Pematuhan standard kualiti dan pengesahan halal untuk pengguna Muslim.</p></article><article class=\"ashwa-card\"><h4>Kualiti Premium</h4><p>Setiap batch melalui kawalan kualiti bagi memastikan konsistensi produk.</p></article><article class=\"ashwa-card\"><h4>Sokongan Harian</h4><p>Sesuai diamalkan secara berkala sebagai rutin kesihatan dan keseimbangan badan.</p></article></div><div style=\"text-align:center\"><a class=\"ashwa-cta\" href=\"https://wa.me/6011707771547\" target=\"_blank\" rel=\"noopener\">KLIK SINI UNTUK TERUSKAN PEMBELIAN</a></div></div></section><footer class=\"ashwa-footer\"><div class=\"ashwa-container\"><h4>Info Penuh</h4><p>Produk, Harga, Testimoni & Cara Penggunaan</p><p>ALL RIGHT RESERVED | ASTRA HERBS (MA0284158-T)</p><p>A36-4, Prima Bizwalk, Jalan Tasik Prima 6/2, Taman Tasik Prima, 47100 Puchong, Selangor</p><p>No Telefon: 011707771547</p></div></footer></div>"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
